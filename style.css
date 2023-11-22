@@ -147,7 +147,7 @@ a:visited{
     padding: 50px;
 }
 
-@media only screen and (min-width: 50px) and (max-width: 900px) and (min-height:50px) and (max-width:900px) {
+@media only screen and (min-width: 0px) and (max-width: 900px) and (min-height:0px) and (max-width:900px) {
     .top-nav a{
         font-size: 80%;
     }
