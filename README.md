@@ -1,8 +1,9 @@
 # Gift Recommendation Website 🎁✨
+![image](https://github.com/yashvisharma1204/Gift_Reccomendation_site/assets/137611141/17af915b-ea4b-4d70-87a9-c3a52770c29b)
 
 ## Overview
 
-Welcome to the Gift Recommendation Website repository! This collaborative project, crafted by [Your Name], Punit Kumar, and Hardik Choudhary, is a delightful platform designed to assist users in finding the perfect gift recommendations. Leveraging HTML, CSS, and JavaScript, we aimed to create a visually pleasing and interactive experience for users.
+Welcome to the Gift Recommendation Website repository! This collaborative project, crafted by @Yashvisharma1204, Punit Kumar, and Hardik Choudhary, is a delightful platform designed to assist users in finding the perfect gift recommendations. Leveraging HTML, CSS, and JavaScript, we aimed to create a visually pleasing and interactive experience for users.
 
 ## Project Highlights
 
